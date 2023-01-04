@@ -1,0 +1,5 @@
+vlc
+json
+Rpi
+keyboard
+pygame

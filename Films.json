@@ -1,0 +1,25 @@
+{
+    "films": [
+        {   "titre": "Le Parrain",
+            "realisateur": "Francis Ford Coppola",
+            "acteurs": ["Marlon Brando", "Al Pacino", "James Caan"],
+            "genre": "Drame",
+            "année": 1972,
+            "chemin" : "data/Countdown1.mp4"
+        },
+        {   "titre": "Inception",
+            "realisateur": "Christopher Nolan",
+            "acteurs": ["Leonardo DiCaprio", "Ken Watanabe", "Joseph Gordon-Levitt"],
+            "genre": "Science-fiction",
+            "année": 2010,
+            "chemin" : "data/Countdown1.mp4"
+        },
+        {   "titre": "La La Land",
+            "realisateur": "Damien Chazelle",
+            "acteurs": ["Ryan Gosling", "Emma Stone", "John Legend"],
+            "genre": "Comédie musicale",
+            "année": 2016,
+            "chemin" : "data/Countdown1.mp4"
+        }
+    ]
+}
